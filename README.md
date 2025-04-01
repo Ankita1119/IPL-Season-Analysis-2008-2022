@@ -95,6 +95,22 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 - Total Wins by a Team in a Season
 
+## 📌 SQL Queries for Power BI Dashboard
+
+### 🏆 1. Season Winners
+
+### 🔥 2. Top Run-Scorers (Orange Cap) (SQL Query with Solution)
+
+### ❓ 3. Top Wicket-Takers (Purple Cap)
+
+### ❓ 4. Matches Won by Toss Decision
+
+### ❓ 5. Matches Won by Result Type
+
+### ❓ 6. Matches Won by Venue
+
+
+
 
 
 
