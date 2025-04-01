@@ -109,6 +109,23 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 ### ❓ 6. Matches Won by Venue
 
+### ❓ 7. Total matches won by Team in Season 
+
+## 🚀 Project Goals & Impact
+
+📌 Enhanced IPL Data Analysis using SQL & Power BI.
+
+📌 Interactive Power BI Dashboard to explore insights quickly.
+
+📌 Historical Trends in IPL seasons for teams & players.
+
+## 🎯 Future Enhancements:
+
+Player-wise performance tracking for each season.
+
+Predictive analytics for upcoming IPL seasons.
+
+Integration with live IPL match data.
 
 
 
