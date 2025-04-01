@@ -99,8 +99,33 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 ### 🏆 1. Season Winners
 
+```sql
+SELECT 
+	season, winning_team AS champion
+FROM ipl_matches
+WHERE match_number = 'Final'
+ORDER BY season ASC;
+```
 ### 🔥 2. Top Run-Scorers (Orange Cap) (SQL Query with Solution)
 
+```sql
+WITH season_wise_runs AS
+(
+    SELECT season, 
+	       batter, SUM(batsman_run) AS total_runs,
+           RANK() OVER (PARTITION BY season ORDER BY SUM(batsman_run) DESC) AS rnk
+    FROM ipl_ball_by_ball b
+    JOIN ipl_matches m ON b.id = m.id
+    GROUP BY season, batter
+)
+SELECT 
+	season, 
+	batter, 
+	total_runs
+FROM season_wise_runs
+WHERE rnk = 1
+ORDER BY season ASC;
+```
 ### ❓ 3. Top Wicket-Takers (Purple Cap)
 
 ### ❓ 4. Matches Won by Toss Decision
