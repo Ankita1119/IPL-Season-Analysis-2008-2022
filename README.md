@@ -21,7 +21,7 @@ This project utilizes two tables:
 #### 1️⃣ ipl_matches_2008_2022
 **Contains match-level details from 2008 to 2022.**
 
----sql
+```sql
 CREATE TABLE ipl_matches_2008_2022 (
     id INT8 PRIMARY KEY,
     city VARCHAR(50),
@@ -42,12 +42,13 @@ CREATE TABLE ipl_matches_2008_2022 (
     umpire1 VARCHAR(50),
     umpire2 VARCHAR(50)
 );
----
+```
+
 
 
 #### 2️⃣ ipl_ball_by_ball_2008_2022
 **Contains ball-by-ball details of every IPL match played.**
-
+```sql
 CREATE TABLE ipl_ball_by_ball_2008_2022 (
     id INT8 NOT NULL,
     innings INT8,
@@ -67,6 +68,7 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
     fielders_involved VARCHAR(50),
     batting_team VARCHAR(50)
 );
+```
 
 
 
