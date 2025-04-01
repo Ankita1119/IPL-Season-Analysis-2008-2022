@@ -6,9 +6,9 @@
 
 ## 🎯 Key Highlights
 
-✅ Season-wise Champion Teams 🏆
-✅ Orange & Purple Cap Holders 🏅
-✅ Total Sixes & Fours in Each Season 🔥
-✅ Player & Bowler Stats 🎯
-✅ Matches Won by Venue, Toss Decision & Result Type 📊
-✅ Team-wise Win Count in Each Season ⚡
+✅ Season-wise Champion Teams 🏆  
+✅ Orange & Purple Cap Holders 🏅  
+✅ Total Sixes & Fours in Each Season 🔥  
+✅ Player & Bowler Stats 🎯  
+✅ Matches Won by Venue, Toss Decision & Result Type 📊  
+✅ Team-wise Win Count in Each Season ⚡  
