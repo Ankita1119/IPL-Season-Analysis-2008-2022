@@ -69,7 +69,31 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
     batting_team VARCHAR(50)
 );
 ```
+## 📊 Power BI Dashboard Insights
 
+🔹 Season Winners & Individual Awards
+
+- Displays the title-winning team each season.
+
+- Shows the Orange Cap (most runs) & Purple Cap (most wickets) holders.
+
+- Highlights the total fours & sixes in each season.
+
+🔹 Batting & Bowling Stats
+
+- Select a batsman to view total runs, sixes, fours, and strike rate.
+
+- Select a bowler to view total wickets, economy rate, and bowling average.
+
+🔹 Team & Match Analysis
+
+- Matches Won by Venue (Runs/Wickets)
+
+- Matches Won by Toss Decision (Field/Bat)
+
+- Matches Won by Result Type (Runs/Wickets)
+
+- Total Wins by a Team in a Season
 
 
 
