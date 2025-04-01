@@ -18,5 +18,70 @@
 ## 📂 Dataset & Schema
 
 This project utilizes two tables:
-### 1️⃣ ipl_matches_2008_2022
-Contains match-level details from 2008 to 2022.
+#### 1️⃣ ipl_matches_2008_2022
+**Contains match-level details from 2008 to 2022.**
+
+CREATE TABLE ipl_matches_2008_2022 (
+    id INT8 PRIMARY KEY,
+    city VARCHAR(50),
+    match_date DATE,
+    season VARCHAR(50),
+    match_number VARCHAR(50),
+    team1 VARCHAR(50),
+    team2 VARCHAR(50),
+    venue VARCHAR(100),
+    toss_winner VARCHAR(50),
+    toss_decision VARCHAR(50),
+    superover VARCHAR(50),
+    winning_team VARCHAR(50),
+    won_by VARCHAR(50),
+    margin VARCHAR(50),
+    method VARCHAR(50),
+    player_of_match VARCHAR(50),
+    umpire1 VARCHAR(50),
+    umpire2 VARCHAR(50)
+);
+
+#### 2️⃣ ipl_ball_by_ball_2008_2022
+**Contains ball-by-ball details of every IPL match played.**
+
+CREATE TABLE ipl_ball_by_ball_2008_2022 (
+    id INT8 NOT NULL,
+    innings INT8,
+    overs INT8,
+    ball_number INT8,
+    batter VARCHAR(50),
+    bowler VARCHAR(50),
+    non_striker VARCHAR(50),
+    extra_type VARCHAR(50),
+    batsman_run INT8,
+    extras_run INT8,
+    total_run INT8,
+    non_boundry INT8,
+    iswicket_delivery INT8,
+    player_out VARCHAR(50),
+    dismisal_kind VARCHAR(50),
+    fielders_involved VARCHAR(50),
+    batting_team VARCHAR(50)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
