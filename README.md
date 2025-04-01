@@ -13,4 +13,10 @@
 ✅ Total Sixes & Fours in Each Season 🔥  
 ✅ Player & Bowler Stats 🎯  
 ✅ Matches Won by Venue, Toss Decision & Result Type 📊  
-✅ Team-wise Win Count in Each Season ⚡  
+✅ Team-wise Win Count in Each Season ⚡ 
+
+## 📂 Dataset & Schema
+
+This project utilizes two tables:
+### 1️⃣ ipl_matches_2008_2022
+Contains match-level details from 2008 to 2022.
