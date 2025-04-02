@@ -13,7 +13,7 @@
 ### 📌 Dashboard Preview  
 Here’s a preview of the Power BI dashboard:  
 
-![IPL Power BI Dashboard]()  
+![IPL Power BI Dashboard](![Image](https://github.com/user-attachments/assets/f8cebddd-526c-4ca4-a57d-5636952d0d32))  
 *(This is a static preview; click the link above to explore the interactive version.)* 
 
 ## 🎯 Key Highlights
