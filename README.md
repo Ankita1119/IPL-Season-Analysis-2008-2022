@@ -6,6 +6,10 @@
 
 **This project provides a comprehensive analysis of IPL seasons from 2008 to 2022, leveraging SQL and Power BI. The dashboard presents detailed insights into match outcomes, team performances, individual player achievements, and key tournament statistics.**
 
+## 🔗 View the Power BI Dashboard  
+📊 **Check out the Interactive Dashboard here:**  
+[🔗 Click to Open Power BI Dashboard](https://github.com/Ankita1119/IPL-Season-Analysis-2008-2022/raw/main/IPL%20Analysis.pbix)  
+
 ## 🎯 Key Highlights
 
 ✅ Season-wise Champion Teams 🏆  
