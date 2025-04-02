@@ -79,7 +79,7 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 - Highlights the total fours & sixes in each season.
 
-
+![Image](https://github.com/user-attachments/assets/f5762279-44a4-4bde-aef6-6cdddda6ecd2)
 
 🔹 Batting & Bowling Stats
 
