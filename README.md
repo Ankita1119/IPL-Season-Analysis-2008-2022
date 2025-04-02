@@ -71,6 +71,8 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 ```
 ## 📊 Power BI Dashboard Insights
 
+📢 **Note:** This Power BI dashboard is **dynamic**, meaning users can explore data across different seasons. However, the results currently displayed in my analysis reflect the **latest season available in the dataset (2022).**  
+
 🔹 Season Winners & Individual Awards
 
 - Displays the title-winning team each season.
@@ -86,6 +88,8 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 - Select a batsman to view total runs, sixes, fours, and strike rate.
 
 - Select a bowler to view total wickets, economy rate, and bowling average.
+
+
 
 🔹 Team & Match Analysis
 
