@@ -89,17 +89,21 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 - Select a bowler to view total wickets, economy rate, and bowling average.
 
-
+![Image](https://github.com/user-attachments/assets/94398320-65b3-43a7-8c8d-4a9569723835)
 
 🔹 Team & Match Analysis
 
 - Matches Won by Venue (Runs/Wickets)
 
+- Total Wins by a Team in a Season
+
+![Image](https://github.com/user-attachments/assets/1b13498b-f669-49ef-8c89-552740c6d48a)
+
 - Matches Won by Toss Decision (Field/Bat)
 
 - Matches Won by Result Type (Runs/Wickets)
 
-- Total Wins by a Team in a Season
+![Image](https://github.com/user-attachments/assets/db1b068d-9825-44f7-b597-99c9c80816f1)
 
 ## 📌 SQL Queries for Power BI Dashboard
 
