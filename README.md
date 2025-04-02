@@ -79,6 +79,8 @@ CREATE TABLE ipl_ball_by_ball_2008_2022 (
 
 - Highlights the total fours & sixes in each season.
 
+
+
 🔹 Batting & Bowling Stats
 
 - Select a batsman to view total runs, sixes, fours, and strike rate.
