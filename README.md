@@ -172,6 +172,10 @@ Predictive analytics for upcoming IPL seasons.
 
 Integration with live IPL match data.
 
+📌 **SQL Queries File:**  
+
+All the SQL queries used in this analysis are available in a dedicated SQL file. You can download it from the repository:
+
 
 
 
