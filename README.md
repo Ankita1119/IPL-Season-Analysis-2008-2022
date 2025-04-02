@@ -10,6 +10,12 @@
 📊 **Check out the Interactive Dashboard here:**  
 [🔗 Click to Open Power BI Dashboard](https://github.com/Ankita1119/IPL-Season-Analysis-2008-2022/raw/main/IPL%20Analysis.pbix)  
 
+### 📌 Dashboard Preview  
+Here’s a preview of the Power BI dashboard:  
+
+![IPL Power BI Dashboard]()  
+*(This is a static preview; click the link above to explore the interactive version.)* 
+
 ## 🎯 Key Highlights
 
 ✅ Season-wise Champion Teams 🏆  
